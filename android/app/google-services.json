@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "378852501011",
+    "project_id": "zidio-chat-app",
+    "storage_bucket": "zidio-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378852501011:android:cb73f06061ca59770281e6",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378852501011-0lvd0hm90umf1no67657k21i14354n4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-jHRxNSXecYSMZXENnKCAzTqFoRqvxfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378852501011-0lvd0hm90umf1no67657k21i14354n4o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378852501011-07hfga4pckdnt8o7qlm07s6so37lncqd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zidioRealTimeChatFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378852501011:android:acbc734b4069bad60281e6",
+        "android_client_info": {
+          "package_name": "com.example.zidio_real_time_chat_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378852501011-1l7ej6l3s3gckd530i85k3rtir0mnihs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zidio_real_time_chat_flutter_app",
+            "certificate_hash": "b8c2f371fe19abba5962864dcc6fe35a09d9c74f"
+          }
+        },
+        {
+          "client_id": "378852501011-0lvd0hm90umf1no67657k21i14354n4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-jHRxNSXecYSMZXENnKCAzTqFoRqvxfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378852501011-0lvd0hm90umf1no67657k21i14354n4o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378852501011-07hfga4pckdnt8o7qlm07s6so37lncqd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zidioRealTimeChatFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
