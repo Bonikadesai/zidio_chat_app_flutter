@@ -2,9 +2,9 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:get/get.dart';
-import 'package:zidio_real_time_chat_flutter_app/Pages/SplacePage/SplacePage.dart';
+import 'package:zidio_real_time_chat_flutter_app/common/routs.dart';
 
-import 'Config/PagePath.dart';
+import 'Screen/SplashScreen/splashScreen.dart';
 import 'firebase_options.dart';
 
 Future<void> main() async {
@@ -22,11 +22,11 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       builder: FToastBuilder(),
-      getPages: pagePath,
+      getPages: routes,
       themeMode: ThemeMode.dark,
       title: 'Chatterly',
       debugShowCheckedModeBanner: false,
-      home: SplacePage(),
+      home: const SplashScreen(),
     );
   }
 }
